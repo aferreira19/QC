@@ -1,0 +1,12 @@
+5 - Questão:
+O que você entende sobre Ruby on Rails? (Questão subjetiva, faça uma descrição do que você entendeu sobre 
+os conceitos e arquitetura do framework, sinta-se a vontade para pesquisar em qualquer fonte.)
+
+Ruby on Rails
+Um framework (estrutura) livre que promete aumentar velocidade e facilidade no desenvolvimento de sites orientados 
+a banco de dados, voltado para a construção de apps modernos, as aplicações são criadas utilizando o framework. Rails 
+são desenvolvidas com base no padrão de arquitetura MVC (Model-View-Controller). A facilidade de se desenvolver coisas 
+complexas usando as Gems do Rails, o que torna ele um framework muito atraente para a criação rápida de MVPs. Rails é uma 
+das melhores estruturas para se trabalhar, pois é fácil e ágil, e está sempre em constantes melhorias sendo um open source 
+(código aberto) e pode ser atualizado com novas funções e resoluções.Ruby on Rails facilita o uso de padrões web ,como JSON 
+ou XML para transferência de dados e HTML, CSS e JavaScript para exibição e interface do usuário.
